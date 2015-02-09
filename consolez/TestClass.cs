@@ -2,6 +2,7 @@
 
 namespace consolez
 {
+    [TestFixture]
     class TestClass
     {
         [Test]
